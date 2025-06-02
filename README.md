@@ -5,16 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/DebojyotiST" target="_blank">
+  <a href="[https://linktr.ee/ChiragXBit]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/debojyoti-sinha-thakur-961822346" target="_blank">
+  <a href="https://www.linkedin.com/in/chiragsinghk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/debojyoti_sthakur" target="_blank">
+  <a href="https://www.instagram.com/_chiragyrr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://mailto:debojyotisinhatkaur@gmail.com" target="_blank">
+  <a href="https://mailto:chiragxbit.cyber@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
