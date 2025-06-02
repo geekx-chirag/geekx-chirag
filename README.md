@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="[https://linktr.ee/ChiragXBit]" target="_blank">
+  <a href="https://linktr.ee/ChiragXBit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="https://www.linkedin.com/in/chiragsinghk" target="_blank">
@@ -16,6 +16,9 @@
   </a>
   <a href="https://mailto:chiragxbit.cyber@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@chiragxbit.cyber" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=medium&logo=gmail&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
 
