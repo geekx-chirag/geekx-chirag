@@ -119,7 +119,7 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
 <p align="left">
   &nbsp;
   <a
-    href="https://medium.com/@chiragxbit"
+    href="https://medium.com/@chiragxbit.cyber"
     target="_blank"
     rel="noopener noreferrer"
     ><img
@@ -128,7 +128,7 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
   /></a>
   &nbsp;
   <a
-    href="[https://www.instagram.com/_chiragyrr?igsh=b3NpODRtbTAzNG80](https://www.instagram.com/_chiragyrr)"
+    href="https://www.instagram.com/_chiragyrr"
     target="_blank"
     rel="noopener noreferrer"
     ><img
