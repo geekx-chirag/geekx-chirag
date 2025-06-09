@@ -1,4 +1,4 @@
-<h1>Hey there 👋! Myself Chirag Singh</h1>
+<h1>Myself👋 Myself Chirag Singh</h1>
 <br /><br />
 <img
   align="right"
@@ -27,8 +27,6 @@
   <li>📫 Reach me at: <a href="mailto:chiragxbit.cyber@gmail.com">chiragxbit.cyber@gmail.com</a></li>
   <li>⚡ In my free time, I enjoy binge-watching web series.</li>
 </ul>
-
-
 
 <h3>🛠 Language and tools</h3><br />
 <div align="left">
@@ -86,41 +84,25 @@
 
 <p align="left">
   &nbsp;
-  <a
-    href="https://medium.com/@chiragxbit.cyber"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://img.icons8.com/?size=100&id=sqYv6jHqkMo4&format=png&color=000000"
-      width="50"
-  /></a>
+  <a href="mailto:chiragxbit.cyber@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" />
+  </a>
   &nbsp;
-  <a
-    href="https://www.instagram.com/_chiragyrr"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
-      width="50"
-  /></a>
+  <a href="https://www.linkedin.com/in/chirag-xbit" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" />
+  </a>
   &nbsp;
-  <a
-    href="https://www.linkedin.com/in/chirag-xbit"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"
-      width="50"
-  /></a>
+  <a href="https://www.instagram.com/_chiragyrr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="50" />
+  </a>
   &nbsp;
-  <a
-    href="https://mailto:chiragxbit.cyber@gmail.com"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"
-      width="50"
-  /></a>
+  <a href="https://x.com/chiragxbit" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@chiragxbit.cyber" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=sqYv6jHqkMo4&format=png&color=000000" width="50" />
+  </a>
 </p>
 <br />
 <picture>
@@ -138,6 +120,6 @@
   />
   <img
     alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/geekx-chirag/geekx-chiragoutput/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/geekx-chirag/geekx-chirag/output/pacman-contribution-graph.svg"
   />
 </picture>
