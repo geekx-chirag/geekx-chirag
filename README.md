@@ -4,18 +4,31 @@
   align="right"
   alt="GIF"
   src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-  width="500"
+  width="450"
 />
 
-<h3>👨🏻‍💻 About Me</h3>
-I'm pursuing dual degrees :
-BE(Hons) CSE in Cybersecurity from Chandigarh University
-BS in Data Science & Application from IIT Madras
-<br /><br />
-• 🧑‍💻 Solving problems through cybersecurity learnings.<br />
-• 📚 Currently diving into Python, Data Science, and Incident Response & Management.<br />
-• 📫 Reach me at: chiragxbit.cyber@gmail.com<br />
-• ⚡ Outside of tech, you’ll often find me binge-watching web series.<br /><br />
+<h3>🎓 Education</h3>
+
+<ul>
+  <li><strong>BE (Hons.) in Computer Science - Specialization in Cybersecurity</strong><br />
+  Chandigarh University</li>
+
+  <li><strong>BS in Data Science & Applications</strong><br />
+  IIT Madras</li>
+</ul>
+
+<br />
+
+<h3>👨‍💻 About Me</h3>
+
+<ul>
+  <li>🧑‍💻 Solving problems through cybersecurity learnings.</li>
+  <li>📚 Currently diving into Python, Data Science, and Incident Response & Management.</li>
+  <li>📫 Reach me at: <a href="mailto:chiragxbit.cyber@gmail.com">chiragxbit.cyber@gmail.com</a></li>
+  <li>⚡ In my free time, I enjoy binge-watching web series.</li>
+</ul>
+
+
 
 <h3>🛠 Language and tools</h3><br />
 <div align="left">
