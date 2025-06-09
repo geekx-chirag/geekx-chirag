@@ -8,12 +8,14 @@
 />
 
 <h3>👨🏻‍💻 About Me</h3>
-I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
+I'm pursuing dual degrees :
+BE(Hons) CSE in Cybersecurity from Chandigarh University
+BS in Data Science & Application from IIT Madras
 <br /><br />
-• 🧑‍💻Cybersecurity-Driven problem solver.<br />
-• 📚 I'm currently learning Python, Data Science and Cybersecurity Incident Response & Management.<br />
-• 📫 How to reach me - chiragxbit.cyber@gmail.com<br />
-•⚡ In my free time I like to watch webseries .<br /><br />
+• 🧑‍💻 Solving problems through cybersecurity learnings.<br />
+• 📚 Currently diving into Python, Data Science, and Incident Response & Management.<br />
+• 📫 Reach me at: chiragxbit.cyber@gmail.com<br />
+• ⚡ Outside of tech, you’ll often find me binge-watching web series.<br /><br />
 
 <h3>🛠 Language and tools</h3><br />
 <div align="left">
@@ -35,53 +37,6 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
     alt="pandas logo"
   />
   <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="40"
-    alt="html5 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    alt="css3 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-    height="40"
-    alt="bootstrap logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    alt="javascript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="40"
-    alt="mysql logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    height="40"
-    alt="github logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"
-    height="40"
-    alt="premierepro logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-    height="40"
-    alt="aftereffects logo"
-  />
 </div>
 <br /><br />
 
@@ -159,17 +114,17 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/Debo006/Debo006/output/pacman-contribution-graph-dark.svg
+      https://raw.githubusercontent.com/geekx-chirag/geekx-chirag/output/pacman-contribution-graph-dark.svg
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://raw.githubusercontent.com/Debo006/Debo006/output/pacman-contribution-graph.svg
+      https://raw.githubusercontent.com/geekx-chirag/geekx-chirag/output/pacman-contribution-graph.svg
     "
   />
   <img
     alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Debo006/Debo006/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/geekx-chirag/geekx-chiragoutput/pacman-contribution-graph.svg"
   />
 </picture>
