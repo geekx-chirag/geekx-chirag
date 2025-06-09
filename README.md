@@ -91,7 +91,7 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
 
 <div align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Debo006&theme=dark&hide_border=true&v=1"
+    src="https://github-readme-streak-stats.herokuapp.com?user=geekx-chirag&theme=dark&hide_border=true&v=1"
     alt="GitHub Streak"
   />
 </div>
@@ -99,7 +99,7 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
 <br />
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debo006&layout=compact&text_color=daf7dc&bg_color=151515"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekx-chirag&layout=compact&text_color=daf7dc&bg_color=151515"
     alt="🔥 Streak Stats"
   />
 </div>
@@ -108,7 +108,7 @@ I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna
 <br />
 <div align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debo006&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekx-chirag&theme=dracula"
     alt="🛠️ Profile Summary"
   />
 </div>
