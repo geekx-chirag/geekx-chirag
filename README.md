@@ -1,4 +1,4 @@
-<h1>Myself👋 Myself Chirag Singh </h1>
+<h1>Myself👋 Myself Chirag Singh aka geekx</h1>
 <br /><br />
 <img
   align="right"
