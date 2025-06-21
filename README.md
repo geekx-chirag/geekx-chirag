@@ -19,7 +19,7 @@
 
 <br />
 
-<h3>👨‍💻 About Me</h3>
+<h3>👨‍💻 Skill-set</h3>
 
 <ul>
   <li>🧑‍💻 Solving problems through cybersecurity learnings.</li>
