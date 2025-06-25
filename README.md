@@ -65,8 +65,8 @@
 <br />
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekx-chirag&layout=compact&text_color=daf7dc&bg_color=151515"
-    alt="🔥 Streak Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekx-chirag&layout=compact&langs_count=6&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515"
+    alt="🔥 Top Languages"
   />
 </div>
 <br />
