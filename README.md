@@ -1,4 +1,4 @@
-<h1>Myself👋 Chirag Singh </h1>
+<h1>Myself👋Chirag Singh</h1>
 <br /><br />
 <img
   align="right"
@@ -7,7 +7,7 @@
   width="450"
 />
 
-<h3>🎓 Education 🏫</h3>
+<h3>🎓 Education</h3>
 
 <ul>
   <li><strong>BE (Hons.) in Computer Science - Specialization in Cybersecurity</strong><br />
@@ -19,16 +19,16 @@
 
 <br />
 
-<h3>👨‍💻 Skill-set 🚀</h3>
+<h3>👨‍💻 Skill-set</h3>
 
 <ul>
-  <li>🛡️ <strong>Solving problems through cybersecurity learnings.</strong></li>
-  <li>📚 <strong>Currently diving into Python, Data Science, and Incident Response & Management.</strong></li>
-  <li>📫 <strong>Reach me at:</strong> <a href="mailto:chiragxbit.cyber@gmail.com">chiragxbit.cyber@gmail.com</a></li>
-  <li>⚡ <strong>In my free time, I enjoy binge-watching web series.</strong></li>
+  <li>🧑‍💻 Solving problems through cybersecurity learnings.</li>
+  <li>📚 Currently diving into Python, Data Science, and Incident Response & Management.</li>
+  <li>📫 Reach me at: <a href="mailto:chiragxbit.cyber@gmail.com">chiragxbit.cyber@gmail.com</a></li>
+  <li>⚡ In my free time, I enjoy binge-watching web series.</li>
 </ul>
 
-<h3>🛠 Language and Tools 🖥️</h3><br />
+<h3>🛠 Language and tools</h3><br />
 <div align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -47,10 +47,11 @@
     height="40"
     alt="pandas logo"
   />
+  <img width="12" />
 </div>
 <br /><br />
 
-<h3>🔥 Stats & Highlights 📊</h3>
+<h3>🔥 Stats</h3>
 
 <br />
 
@@ -62,24 +63,19 @@
 </div>
 
 <br />
+
+<h3>📊 Contribution Chart</h3>
+
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekx-chirag&layout=compact&langs_count=6&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515"
-    alt="🔥 Top Languages"
+    src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Code Contributions','Issues','Pull Requests','Commits'],datasets:[{data:[45,25,15,15]}]},options:{plugins:{legend:{position:'right'}}}}"
+    alt="Contribution Pie Chart"
   />
 </div>
-<br />
-<h3>📈 Contribution Graph 🌟</h3>
-<br />
-<div align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geekx-chirag&theme=dracula"
-    alt="📈 Productive Time Contribution Graph"
-  />
-</div>
+
 <br />
 
-<h3>🔗 Connect with Me 🌍</h3>
+<h3>🔗 Connect with Me</h3>
 
 <p align="left">
   &nbsp;
@@ -104,6 +100,7 @@
   </a>
 </p>
 <br />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
