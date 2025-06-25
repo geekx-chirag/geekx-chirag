@@ -1,4 +1,4 @@
-<h1>Myself👋Chirag Singh</h1>
+<h1>Myself👋 Chirag Singh</h1>
 <br /><br />
 <img
   align="right"
@@ -52,28 +52,24 @@
 <br /><br />
 
 <h3>🔥 Stats</h3>
-
 <br />
 
-<div align="left">
+<div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=geekx-chirag&theme=dark&hide_border=true&v=1"
     alt="GitHub Streak"
   />
 </div>
 
-<br />
-
 <h3>📊 Contribution Chart</h3>
 
-<div align="left">
-  <img
-    src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Code Contributions','Issues','Pull Requests','Commits'],datasets:[{data:[45,25,15,15]}]},options:{plugins:{legend:{position:'right'}}}}"
-    alt="Contribution Pie Chart"
+<div align="center">
+  <img 
+    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Code%20Contributions%22%2C%22Issues%22%2C%22Pull%20Requests%22%2C%22Commits%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B45%2C25%2C15%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%23FFCD56%22%2C%22%234BC0C0%22%2C%22%2363FF84%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Contribution%20Breakdown%22%7D%7D%7D%7D" 
+    alt="Contribution Pie Chart" 
+    width="400"
   />
 </div>
-
-<br />
 
 <h3>🔗 Connect with Me</h3>
 
@@ -99,7 +95,6 @@
     <img src="https://img.icons8.com/?size=100&id=sqYv6jHqkMo4&format=png&color=000000" width="50" />
   </a>
 </p>
-<br />
 
 <picture>
   <source
