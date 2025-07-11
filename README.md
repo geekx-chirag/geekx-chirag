@@ -54,12 +54,12 @@
   />
 </div>
 
-<h3>📊 Contribution Chart</h3>
+<h3>📊 GitHub Activity Overview</h3>
 <div align="center">
-  <img 
-    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Code%20Contributions%22%2C%22Issues%22%2C%22Pull%20Requests%22%2C%22Commits%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B45%2C25%2C15%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%23FFCD56%22%2C%22%234BC0C0%22%2C%22%2363FF84%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Contribution%20Breakdown%22%7D%7D%7D%7D" 
-    alt="Contribution Pie Chart" 
-    width="400"
+  <img
+    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%20Opened%22%2C%22Repos%20Contributed%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22GitHub%20Activity%22%2C%22data%22%3A%5B120%2C30%2C18%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23557A95%22%2C%22%235E8B7E%22%2C%22%23A4C3B2%22%2C%22%23839AA8%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Activity%20Summary%22%2C%22font%22%3A%7B%22size%22%3A20%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%7D%7D"
+    alt="GitHub Activity Bar Chart"
+    width="500"
 />
 </div>
 
@@ -96,4 +96,5 @@
     src="https://raw.githubusercontent.com/geekx-chirag/geekx-chirag/output/pacman-contribution-graph.svg"
   />
 </picture>
+
 
