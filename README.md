@@ -49,15 +49,15 @@
 <h3>🔥 Stats</h3>
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=geekx-chirag&theme=dark&hide_border=true&v=1"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=geekx-chirag&show_icons=true&theme=dark"
+    alt="GitHub Stats"
   />
 </div>
 
 <h3>📊 GitHub Activity Overview</h3>
 <div align="center">
   <img
-    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%20Opened%22%2C%22Repos%20Contributed%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22GitHub%20Activity%22%2C%22data%22%3A%5B120%2C30%2C18%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23557A95%22%2C%22%235E8B7E%22%2C%22%23A4C3B2%22%2C%22%23839AA8%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Activity%20Summary%22%2C%22font%22%3A%7B%22size%22%3A20%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%7D%7D"
+    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%20Opened%22%2C%22Repos%20Contributed%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22GitHub%20Activity%22%2C%22data%22%3A%5B120%2C30%2C18%2C10%5D%2C%22backgroundColor%22%3A%5B%22%2334a0a4%22%2C%22%2396d38c%22%2C%22%23f4a261%22%2C%22%2362645e%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Activity%20Overview%22%2C%22font%22%3A%7B%22size%22%3A20%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A10%7D%7D%7D"
     alt="GitHub Activity Bar Chart"
     width="500"
 />
@@ -96,5 +96,6 @@
     src="https://raw.githubusercontent.com/geekx-chirag/geekx-chirag/output/pacman-contribution-graph.svg"
   />
 </picture>
+
 
 
