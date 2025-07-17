@@ -1,4 +1,4 @@
-<h1>Myself Chirag Singh</h1>
+<h1>Myself Chirag Singh aka Problem Solver </h1>
 
 <img
   align="right"
